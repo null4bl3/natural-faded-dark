@@ -1,6 +1,7 @@
 {
     "name": "natural-faded-dark",
     "publisher": "null4bl3",
+    "icon": "https://raw.githubusercontent.com/null4bl3/natural-faded-dark/main/images/term_icon.png",
     "repository": "https://github.com/null4bl3/natural-faded-dark",
     "displayName": "natural-faded-dark",
     "description": "A natural faded dark theme with a matte color palette.",
