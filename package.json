@@ -5,7 +5,7 @@
     "repository": "https://github.com/null4bl3/natural-faded-dark",
     "displayName": "natural-faded-dark",
     "description": "A natural faded dark theme with a matte color palette.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.59.0"
     },
